@@ -1,0 +1,7 @@
+{{extend 'layout.html'}}
+
+{{for category in row:}}
+<div class="well">
+  {{=A(category.name.title(),_class="btn btn-large btn-primary",_style="width:50%",_href=URL('list_post_by_votes',args=category.name))}}
+</div>
+{{pass}}

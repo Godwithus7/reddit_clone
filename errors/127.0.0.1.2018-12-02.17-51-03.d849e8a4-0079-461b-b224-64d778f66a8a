@@ -1,0 +1,452 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.SyntaxError'> Object exists and cannot be redefined: post"
+p3
+sS'layer'
+p4
+S'C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\applications\\reddit_clone\\controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0E204E30, file "C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\applications\\reddit_clone\\controllers/default.py", line 9>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.SyntaxError object>"
+p13
+sS'text'
+p14
+S'None'
+p15
+sS'__str__'
+p16
+S"<method-wrapper '__str__' of exceptions.SyntaxError object>"
+p17
+sS'__reduce__'
+p18
+S'<built-in method __reduce__ of exceptions.SyntaxError object>'
+p19
+sS'__dict__'
+p20
+S'{}'
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of exceptions.SyntaxError object>'
+p23
+sS'message'
+p24
+S"'Object exists and cannot be redefined: post'"
+p25
+sS'__init__'
+p26
+S"<method-wrapper '__init__' of exceptions.SyntaxError object>"
+p27
+sS'__setattr__'
+p28
+S"<method-wrapper '__setattr__' of exceptions.SyntaxError object>"
+p29
+sS'__reduce_ex__'
+p30
+S'<built-in method __reduce_ex__ of exceptions.SyntaxError object>'
+p31
+sS'__new__'
+p32
+S'<built-in method __new__ of type object>'
+p33
+sS'__format__'
+p34
+S'<built-in method __format__ of exceptions.SyntaxError object>'
+p35
+sS'__class__'
+p36
+S"<type 'exceptions.SyntaxError'>"
+p37
+sS'filename'
+p38
+S'None'
+p39
+sS'lineno'
+p40
+S'None'
+p41
+sS'msg'
+p42
+S"'Object exists and cannot be redefined: post'"
+p43
+sS'__doc__'
+p44
+S"'Invalid syntax.'"
+p45
+sS'__getitem__'
+p46
+S"<method-wrapper '__getitem__' of exceptions.SyntaxError object>"
+p47
+sS'__setstate__'
+p48
+S'<built-in method __setstate__ of exceptions.SyntaxError object>'
+p49
+sS'__getattribute__'
+p50
+S"<method-wrapper '__getattribute__' of exceptions.SyntaxError object>"
+p51
+sS'print_file_and_line'
+p52
+S'None'
+p53
+sS'args'
+p54
+S"('Object exists and cannot be redefined: post',)"
+p55
+sS'__subclasshook__'
+p56
+S'<built-in method __subclasshook__ of type object>'
+p57
+sS'offset'
+p58
+S'None'
+p59
+sS'__unicode__'
+p60
+S'<built-in method __unicode__ of exceptions.SyntaxError object>'
+p61
+sS'__delattr__'
+p62
+S"<method-wrapper '__delattr__' of exceptions.SyntaxError object>"
+p63
+sS'__repr__'
+p64
+S"<method-wrapper '__repr__' of exceptions.SyntaxError object>"
+p65
+sS'__hash__'
+p66
+S"<method-wrapper '__hash__' of exceptions.SyntaxError object>"
+p67
+ssS'evalue'
+p68
+S'Object exists and cannot be redefined: post'
+p69
+sS'request'
+p70
+cgluon.html
+XML_unpickle
+p71
+(S'sN\x92\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>reddit_clone</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>2502</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>default</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_add_notes</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-8d0d0853-1c51-4df9-b6c5-c163fe0ca36c<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-72b45055-5479-4d48-9867-7655f52fc6db<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_app1</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-109758a7-f86a-457a-b84e-1b8d36b6cf83<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_app2</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-5e1bcff7-21aa-42cb-9545-ff7fddf8b6ec<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_blogpost</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-622995a6-a6d7-406b-9ca4-3d948a8ff4f4<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_images</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-46be8667-e84e-4453-a7e7-728b2c0b4806<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_jonastores</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-f6961734-fb9e-4e1c-b465-ac26ec3c1eb2<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_notepad</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-de8f696c-7234-4e23-a047-e450ac59efdc<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_reddit_clone</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-8d5d8cf9-72b2-4bbe-80c4-bbd4580b9619<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_welcome</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-0647ca05-2585-464b-97b8-ceb89319715a<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>en-US,en;q=0.9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CACHE_CONTROL</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_app2=127.0.0.1-5e1bcff7-21aa-42cb-9545-ff7fddf8b6ec; session_id_admin=127.0.0.1-72b45055-5479-4d48-9867-7655f52fc6db; session_id_images=127.0.0.1-46be8667-e84e-4453-a7e7-728b2c0b4806; session_id_welcome=127.0.0.1-0647ca05-2585-464b-97b8-ceb89319715a; session_id_app1=127.0.0.1-109758a7-f86a-457a-b84e-1b8d36b6cf83; session_id_jonastores=127.0.0.1-f6961734-fb9e-4e1c-b465-ac26ec3c1eb2; session_id_add_notes=127.0.0.1-8d0d0853-1c51-4df9-b6c5-c163fe0ca36c; session_id_notepad=127.0.0.1-de8f696c-7234-4e23-a047-e450ac59efdc; session_id_blogpost=127.0.0.1-622995a6-a6d7-406b-9ca4-3d948a8ff4f4; session_id_reddit_clone=127.0.0.1-8d5d8cf9-72b2-4bbe-80c4-bbd4580b9619</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/reddit_clone/default/edit_post/2502</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_UPGRADE_INSECURE_REQUESTS</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/reddit_clone/default/view_post/2502</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>30176</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>DESKTOP-P20VVML</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\Notepad\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\admin\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\images\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\jonastores\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\welcome\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\App1\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\Add_Notes\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\App2\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\blogpost\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\reddit_clone\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\notepad\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup &amp; intro\\software\\windows\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x3148030: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;DESKTOP-P20VVML&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup &amp; intro\\software\\windows\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>en-US,en;q=0.9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cache_control</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_app2=127.0.0.1-5e1bcff7-21aa-42cb-9545-ff7fddf8b6ec; session_id_admin=127.0.0.1-72b45055-5479-4d48-9867-7655f52fc6db; session_id_images=127.0.0.1-46be8667-e84e-4453-a7e7-728b2c0b4806; session_id_welcome=127.0.0.1-0647ca05-2585-464b-97b8-ceb89319715a; session_id_app1=127.0.0.1-109758a7-f86a-457a-b84e-1b8d36b6cf83; session_id_jonastores=127.0.0.1-f6961734-fb9e-4e1c-b465-ac26ec3c1eb2; session_id_add_notes=127.0.0.1-8d0d0853-1c51-4df9-b6c5-c163fe0ca36c; session_id_notepad=127.0.0.1-de8f696c-7234-4e23-a047-e450ac59efdc; session_id_blogpost=127.0.0.1-622995a6-a6d7-406b-9ca4-3d948a8ff4f4; session_id_reddit_clone=127.0.0.1-8d5d8cf9-72b2-4bbe-80c4-bbd4580b9619</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/reddit_clone/default/edit_post/2502</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_upgrade_insecure_requests</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>::1</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr><tr><td><div>DESKTOP-P20VVML</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/reddit_clone/default/view_post/2502</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>30176</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/reddit_clone/default/view_post/2502</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>DESKTOP-P20VVML</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_original_uri</td><td style="vertical-align:top;">:</td><td><div>/reddit_clone/default/view_post/2502</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup &amp; intro\\software\\windows\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.17.1-stable+timestamp.2018.08.06.01.02.56</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x023BD0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x02F7EC00&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x09419070&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x023BD0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x02F7EC00&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x09419070&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup &amp; intro\\software\\windows\\web2py\\applications\\reddit_clone\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>view_post</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\Notepad\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\admin\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\images\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\jonastores\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\welcome\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\App1\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\Add_Notes\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\App2\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\blogpost\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\reddit_clone\\\\&#x27;, &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\notepad\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup &amp; intro\\software\\windows\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x3148030: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;DESKTOP-P20VVML&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup &amp; intro\\software\\windows\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>::1</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr><tr><td><div>DESKTOP-P20VVML</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.17.1-stable+timestamp.2018.08.06.01.02.56</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">method</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2018, 12, 2, 17, 51, 3, 559000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div>2502</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/reddit_clone/default/view_post/2502</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2018, 12, 2, 17, 51, 3, 559000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x0988D3F0&gt;</div></td></tr></table></div>'
+tRp72
+sS'frames'
+p73
+(lp74
+(dp75
+S'file'
+p76
+S'C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\gluon\\restricted.py'
+p77
+sS'dump'
+p78
+(dp79
+S'environment'
+p80
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p81
+sS'ccode'
+p82
+S'<code object <module> at 0E204E30, file "C:\\User...ons\\reddit_clone\\controllers/default.py", line 9>'
+p83
+ssS'lnum'
+p84
+I219
+sS'lines'
+p85
+(dp86
+I214
+S'    if environment is None:'
+p87
+sI215
+S'        environment = {}'
+p88
+sI216
+S"    environment['__file__'] = layer"
+p89
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p90
+sI218
+S'    try:'
+p91
+sI219
+S'        exec(ccode, environment)'
+p92
+sI220
+S'    except HTTP:'
+p93
+sI221
+S'        raise'
+p94
+sI222
+S'    except RestrictedError:'
+p95
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p96
+ssS'call'
+p97
+S'(ccode=<code object <module> at 0E204E30, file "C:\\User...ons\\reddit_clone\\controllers/default.py", line 9>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, ...}, layer=r\'C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\we...\\applications\\reddit_clone\\controllers/default.py\', scode=<code object <module> at 0E204E30, file "C:\\User...ons\\reddit_clone\\controllers/default.py", line 9>)'
+p98
+sS'func'
+p99
+S'restricted'
+p100
+sa(dp101
+g76
+S'C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\applications\\reddit_clone\\controllers\\default.py'
+p102
+sg78
+(dp103
+sg84
+I128
+sg85
+(dp104
+I117
+S'    return dict(form=auth())'
+p105
+sI118
+S''
+sI119
+S'# ---- action to server uploaded static content (required) ---'
+p106
+sI120
+S'@cache.action()'
+p107
+sI121
+S'def download():'
+p108
+sI122
+S'    """'
+p109
+sI123
+S'    allows downloading of uploaded files'
+p110
+sI124
+S'    http://..../[app]/default/download/[filename]'
+p111
+sI125
+S'    """'
+p112
+sI126
+S'    return response.download(request, db)'
+p113
+ssg97
+S'()'
+p114
+sg99
+S'<module>'
+p115
+sa(dp116
+g76
+S'C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\gluon\\globals.py'
+p117
+sg78
+(dp118
+S'self'
+p119
+S'undefined'
+p120
+sS'f'
+S'<function view_post>'
+p121
+ssg84
+I421
+sg85
+(dp122
+I416
+S"        self.flash = ''            # used by the default view layout"
+p123
+sI417
+S'        self.meta = Storage()      # used by web2py_ajax.html'
+p124
+sI418
+S'        self.menu = []             # used by the default view layout'
+p125
+sI419
+S'        self.files = []            # used by web2py_ajax.html'
+p126
+sI420
+S'        self._vars = None'
+p127
+sI421
+S'        self._caller = lambda f: f()'
+p128
+sI422
+S'        self._view_environment = None'
+p129
+sI423
+S'        self._custom_commit = None'
+p130
+sI424
+S'        self._custom_rollback = None'
+p131
+sI425
+S"        self.generic_patterns = ['*']"
+p132
+ssg97
+S'(f=<function view_post>)'
+p133
+sg99
+S'<lambda>'
+p134
+sa(dp135
+g76
+S'C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\applications\\reddit_clone\\controllers\\default.py'
+p136
+sg78
+(dp137
+S'global db'
+p138
+S'<DAL uri="sqlite://storage.sqlite">'
+p139
+sS'db.comm'
+p140
+S'<Table comm (id, post, parent_comm, votes, body,...reated_on, created_by, modified_on, modified_by)>'
+p141
+sS'db.comm.post'
+p142
+S'<pydal.objects.Field object>'
+p143
+sS'id'
+p144
+S'2502'
+p145
+ssg84
+I63
+sg85
+(dp146
+I64
+S'    db.comm.parent_comm = comments.last() if comments else None'
+p147
+sI65
+S'    form = SQLFORM(db.comm).process()'
+p148
+sI66
+S'    return locals()'
+p149
+sI67
+S''
+sI58
+S''
+sI59
+S'def view_post():'
+p150
+sI60
+S'    id = request.args(0,cast=int,)'
+p151
+sI61
+S"    post = db.post(id) or redirect(URL('index'))"
+p152
+sI62
+S'    comments = db(db.comm.post==post.id).select(orderby=db.comm.created_on)'
+p153
+sI63
+S'    db.comm.post = id'
+p154
+ssg97
+S'()'
+p155
+sg99
+S'view_post'
+p156
+sa(dp157
+g76
+S'C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\gluon\\packages\\dal\\pydal\\objects.py'
+p158
+sg78
+(dp159
+S'key'
+p160
+S"'post'"
+p161
+ssg84
+I639
+sg85
+(dp162
+I640
+S'        self[key] = value'
+p163
+sI641
+S''
+sI642
+S'    def __delitem__(self, key):'
+p164
+sI643
+S'        if isinstance(key, dict):'
+p165
+sI634
+S'                    self._virtual_methods.append(value)'
+p166
+sI635
+S''
+sI636
+S'    def __setattr__(self, key, value):'
+p167
+sI637
+S"        if key[:1] != '_' and key in self:"
+p168
+sI638
+S'            raise SyntaxError('
+p169
+sI639
+S"                'Object exists and cannot be redefined: %s' % key)"
+p170
+ssg97
+S"(self=<Table comm (id, post, parent_comm, votes, body,...reated_on, created_by, modified_on, modified_by)>, key='post', value=2502)"
+p171
+sg99
+g28
+sasS'pyver'
+p172
+S'Python 2.7.9: C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\web2py.exe (prefix: )'
+p173
+sS'session'
+p174
+g71
+(S's\xb7\x01\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_orderby</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_query</td><td style="vertical-align:top;">:</td><td><div>db.comm.id&gt;0</div></td></tr></table></div>'
+tRp175
+sS'etype'
+p176
+S"<type 'exceptions.SyntaxError'>"
+p177
+sS'date'
+p178
+S'Sun Dec 02 17:51:03 2018'
+p179
+sS'response'
+p180
+g71
+(S's\xc7\x1f\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x09FBF060&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_reddit_clone</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-8d5d8cf9-72b2-4bbe-80c4-bbd4580b9619<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>bootstrap4_inline</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">google_analytics_id</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>Home</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/reddit_clone/default/index</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Programming</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/reddit_clone/default/list_post_by_votes/Programming</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Politics</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/reddit_clone/default/list_post_by_votes/Politics</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Science</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/reddit_clone/default/list_post_by_votes/Science</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Politics</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/reddit_clone/default/list_post_by_votes/politics</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">author</td><td style="vertical-align:top;">:</td><td><div>Your Name &lt;you@example.com&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">description</td><td style="vertical-align:top;">:</td><td><div>a cool new app</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generator</td><td style="vertical-align:top;">:</td><td><div>Web2py Web Framework</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">keywords</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>web2py</div></td></tr><tr><td><div>python</div></td></tr><tr><td><div>framework</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^default/\\w+\\.py$</div></td></tr><tr><td><div>^default/view_post/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_reddit_clone</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;C:\\\\Users\\\\Godwithus\\\\Desktop\\\\Codetrain\\\\Beginner\\\\web2py\\\\1. we2py setup &amp; intro\\\\software\\\\windows\\\\web2py\\\\applications\\\\reddit_clone\\\\sessions\\\\192\\\\0b9\\\\127.0.0.1-8d5d8cf9-72b2-4bbe-80c4-bbd4580b9619&#x27;, mode &#x27;rb+&#x27; at 0x0E2F5F40&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup &amp; intro\\software\\windows\\web2py\\applications\\reddit_clone\\sessions\\127.0.0.1-8d5d8cf9-72b2-4bbe-80c4-bbd4580b9619</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>b3fc080a300f4933fdde7722bc9337c4</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-8d5d8cf9-72b2-4bbe-80c4-bbd4580b9619</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_reddit_clone</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_locked</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>reddit_clone</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">show_toolbar</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>default/view_post.html</div></td></tr></table></div>'
+tRp181
+sS'locals'
+p182
+(dp183
+S'self'
+p184
+S'<Table comm (id, post, parent_comm, votes, body,...reated_on, created_by, modified_on, modified_by)>'
+p185
+sS'value'
+p186
+S'2502'
+p187
+sS'key'
+p188
+S"'post'"
+p189
+sssS'traceback'
+p190
+S'Traceback (most recent call last):\n  File "C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\applications\\reddit_clone\\controllers/default.py", line 128, in <module>\n  File "C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\gluon\\globals.py", line 421, in <lambda>\n    self._caller = lambda f: f()\n  File "C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\applications\\reddit_clone\\controllers/default.py", line 63, in view_post\n    db.comm.post = id\n  File "C:\\Users\\Godwithus\\Desktop\\Codetrain\\Beginner\\web2py\\1. we2py setup & intro\\software\\windows\\web2py\\gluon\\packages\\dal\\pydal\\objects.py", line 639, in __setattr__\n    \'Object exists and cannot be redefined: %s\' % key)\nSyntaxError: Object exists and cannot be redefined: post\n'
+p191
+s.

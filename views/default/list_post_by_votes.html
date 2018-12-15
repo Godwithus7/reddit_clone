@@ -1,0 +1,50 @@
+{{extend 'layout.html'}}
+
+{{if request.function=='list_post_by_votes':}}
+<h1>{{=category.name.title()}}</h1>
+{{=A('sort by datetime',_class='btn btn-default',_href=URL('list_post_by_datetime',args=category.name))}}
+{{=A('post a new link',_class='btn btn-primary',_href=URL('create_post',args=category.name))}}
+{{elif request.function=='list_post_by_datetime':}}
+<h1>{{=category.name.title()}}</h1>
+{{=A('sort by votes',_class='btn btn-default',_href=URL('list_post_by_votes',args=category.name))}}
+{{=A('post a new link',_class='btn btn-primary',_href=URL('create_post',args=category.name))}}
+{{else:}}
+<h1>{{=author(user_id)}}</h1>
+{{pass}}
+<hr>
+
+{{for post in rows:}}
+<div class="well">
+    <table>
+        <tr data-id="{{post.id}}">
+            <td><button data-direction="up">-</button></td>
+            <td><span class="votes">{{=post.votes}}</span></td>
+            <td><button data-direction="down">+</button></td>
+            <td><strong>{{=A(post.title,_href=post.url) if post.url else post.title}}</strong></td>
+        </tr>
+        <tr>
+            <td colspan="3"></td>
+            <td>{{=A('comments',_href=URL('view_post',args=post.id))}}</td>
+        </tr>
+    </table>    
+    <!-- <a href="{{=URL('view_post',args=post.id)}}">{{=post.title}}</a> -->
+</div>
+{{pass}} 
+
+{{if page > 0:}}
+{{=A('previous',_class="btn btn-default",_href=URL(args=(category.name,page-1)))}}
+{{pass}}
+
+{{if len(rows) >= 10:}}
+{{=A('next',_class="btn btn-default",_href=URL(args=(category.name,page+1)))}}
+{{pass}}
+
+<!-- <script>
+function do_ajax_vote(t.direction){
+    alert('clicked'):
+}
+jQuery(function(){
+    jQuery('[data-direction=up').click(function(){do_ajax_vote(this,'up'):}):
+    jQuery('[data-direction=down').click(function(){do_ajax_vote(this,'down'):}):
+}):
+</script> -->
